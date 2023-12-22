@@ -1,8 +1,8 @@
 {
-    'name': 'Sthepanie',
+    'name': 'Stephanie',
     'version': '15.0.1.0.0',
     'category': 'Tools',
-    'summary': "Proyecto Sthepanie",
+    'summary': "Proyecto Stephanie",
     'author': 'Sdh',
     'website': 'http://github.com/sistemasdehudson/cl-stephanie',
     'license': 'AGPL-3',
